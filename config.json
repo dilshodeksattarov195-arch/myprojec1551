@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheealculate",
+        "uuid": 3719298,
+        "checksum": "fw54cr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
